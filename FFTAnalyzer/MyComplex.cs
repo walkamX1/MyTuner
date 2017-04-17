@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace FFTAnalyzer
 {
-    class Complex
+    public class MyComplex
     {
         public double im;
         public double re;
 
-        public Complex(double _re)
+        public MyComplex(double _re)
         {
             im = 0;
             re = _re;
         }
 
-        public Complex(double _re, double _im)
+        public MyComplex(double _re, double _im)
         {
             re = _re;
             im = _im;
@@ -29,7 +29,7 @@ namespace FFTAnalyzer
             {
                 return re.ToString();
             }
-            return re + (im > 0 ? "+" : "") + im;
+            return re.ToString() + (im > 0 ? "+" : "") + im.ToString() + "i";
         }
     }
 }

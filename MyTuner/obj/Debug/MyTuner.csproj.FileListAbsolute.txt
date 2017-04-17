@@ -1,2 +1,12 @@
 D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner\MyTuner\bin\Debug\MyTuner.exe.config
 D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\bin\Debug\MyTuner.exe.config
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\bin\Debug\MyTuner.exe
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\bin\Debug\MyTuner.pdb
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\bin\Debug\FFTAnalyzer.dll
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\bin\Debug\FFTAnalyzer.pdb
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\obj\Debug\MyTuner.csprojResolveAssemblyReference.cache
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\obj\Debug\MyTuner.Form1.resources
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\obj\Debug\MyTuner.Properties.Resources.resources
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\obj\Debug\MyTuner.csproj.GenerateResource.Cache
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\obj\Debug\MyTuner.exe
+D:\AAA\ИТМО\4 семестр\Projects\tuner app\MyTuner2\MyTuner\obj\Debug\MyTuner.pdb
