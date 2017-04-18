@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Numerics;
 
 namespace FFTAnalyzer
 {
@@ -10,6 +11,10 @@ namespace FFTAnalyzer
     {
         public static double[] calculateSpectr(double[] data)
         {
+            int n = data.Length;
+            int lg_n;
+            for (lg_n = 0; (1 << lg_n) < n; lg_n++);
+
             return null;
         }
 
